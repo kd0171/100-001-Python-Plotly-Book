@@ -1,0 +1,20 @@
+.roundsqlime {
+    width: 500px;
+    height: 250px;
+    background-color: lime;
+    margin: 5%;
+}
+
+.roundsqblue {
+    width: 29%;
+    height: 250px;
+    background-color: skyblue;
+    margin: 2%;
+}
+
+.columns {
+    float:left;
+}
+/* float: left; は 浮動配置（float positioning）
+要素を左側に“浮かせて”配置する。
+後続の要素はその右側に回り込むように並ぶ。 */
